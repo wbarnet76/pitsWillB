@@ -36,7 +36,7 @@ The orignal moon shoes had one big problem it had a high chance to injure the we
 ## Early Prototype
 Even in the early stages of this project we had decided to move away from the original moon shoes design due to its high risk of injury. I started the prototype out with a platform to stand on, then I drilled holes in the bottom of the platform to house springs. Then I built an enclosure for the platform, ensuring little to no movement aside from vertical movement.
 
-<img src="images/IMG_1918.jpeg" width="300px" height="400" /> 
+https://github.com/wbarnet76/pitsWillB/blob/main/images/IMG_1918.jpeg?raw=true
 
 ## Prototype Pt2
 Starting out with the second prototype I traced my shoes to create the new platform, cutting the traced area out with a bandsaw then taking it to the chop saw to cut it down a line that I had drawn to show where my foot would bend when I jumped. Then I drilled three holes through each side of the cut  and threaded a string through the holes in a criss cross pattern to create an articulated part of the platform. 
