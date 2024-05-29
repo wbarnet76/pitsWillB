@@ -1,62 +1,53 @@
-# Engineering_4_Notebook
-
+# Pie in the Sky
+**This is a incomelplete documention due to the fact that I do not have any code, data, or wiring.**
 &nbsp;
 
-## Table of Contents
-* [Raspberry_Pi_Assignment_Template](#raspberry_pi_assignment_template)
-* [Onshape_Assignment_Template](#onshape_assignment_template)
 
 &nbsp;
+# Assingment details
 
-## Raspberry_Pi_Assignment_Template
-
-### Assignment Description
-
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
-### Evidence 
-
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
-
-### Wiring
-
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
-
-### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
-
-### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+Assingment: Launch Raspberry Pi into the sky, collect data,  Additionally, make sure landing is safe enough to protect the Pi.
 
 &nbsp;
+# Planing 
+## intial ideas
 
-## Onshape_Assignment_Template
+* Trebuchet
+    * Pros - High power
+    * Cons - Lots of moving parts 
+* Moon Shoes
+    * Pros - Fun, creative
+    * Cons - difucult to visualize
 
-### Assignment Description
+### Chosen idea
+We diceided to do Moon Shoes due to their unique design and fun idea.
+## Materials add links to pics of each 
+* 4x 1/4in plywood 
+* 2x 5x10in wood block
+* 4x 2in springs 
+* 4x 4in carraige bolt
+    * 4x nuts 
+* 2x hiking boots
+* 9x 1/4in wood screws
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+## Safety measures
+The orignal moon shoes had one big problem it had a high chance to injure the weareras ankles. to mitagate this we chose to use hiking boots, as a base, for their ankle protection
 
-### Part Link 
+## Early Prototype
+Even in the early stages of this project we had decided to move away from the original moon shoes design due to its high risk of injury. I started the prototype out with a platform to stand on, then I drilled holes in the bottom of the platform to house springs. Then I built an enclosure for the platform, ensuring little to no movement aside from vertical movement.
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+    put pic here 
 
-### Part Image
+## Prototype Pt2
+Starting out with the second prototype I traced my shoes to create the new platform, cutting the traced area out with a bandsaw then taking it to the chop saw to cut it down a line that I had drawn to show where my foot would bend when I jumped. Then I drilled three holes through each side of the cut  and threaded a string through the holes in a criss cross pattern to create an articulated part of the platform. 
+  
+    put pic here
 
-Take a nice screenshot of your Onshape document. 
+# Final Design
 
-### Reflection
+    put pic heere 
+## Final Boot Prep
+To get the boots ready for the final I had to set them up on the drill press to drill relief holes for the carriage  bolts for when the springs compress so I drilled in the places that the bolts would push up into. Then in between the holes I drilled put a 1in tall 5x10in wide piece of wood to give a little extra height to the boots.
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
-
-&nbsp;
-
-## Media Test
-
-Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
-
-### Test Link
-
-### Test Image
-
-### Test GIF
+## Final Platform Prep 
+In my final design I used the cut out idea in the previous prototype but I did not use the string to articulate it. I made cut outs per foot then used the drill press to create a hole half way thru the plywood then I made a “puck” that the drill press creates when it's drilled all the way thru the wood. I used these “pucks” by putting them in the hole that I made half way through the plywood and I filled the gaps with hot glue to create a mold. I  put the springs in the mold and that holds them in the holde and reduces the horizontal movement. Then i drilled a hole thru the middle of the space that the spring sits in and put the carriage bolt thru it 
